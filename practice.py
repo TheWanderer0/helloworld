@@ -2,6 +2,4 @@ import sys
 
 name = sys.argv[-1]
 
-print 'Hello,'+name+'!'
-
-print 'I am awesome'
+print 'Hello,'+name+'! You are amazing!'
